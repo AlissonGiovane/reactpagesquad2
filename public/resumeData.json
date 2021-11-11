@@ -1,0 +1,31 @@
+{
+  "main": {
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/juntasporeles/?hc_ref=ARQzw3b_1Me3MjXK6H65zdIIfWSQFZxIeWN3stFpdyvtKhAvZbXDS4b7HHEFwvOY_TU&fref=nf&__xts__[0]=68.ARCeB2L9pALBd_GcFgufqEvqAVfsWg1mBptx1r2EGKmkdgTvnTuUwGwLwRSNRomvNfZC9CJRpSjxh_DJwH5LLntumYcpBy44dly-5iS7yHx2L9dVAwscw1fkQy-qCkMW7bg2M0bt-EHDS5POdVGRbGYhXRcaSfpjhq29UfrFGukil8ivTIjZUTTOBGcbXp0a9YJW837esIMvsyIlFbOY7nxbn2rW8F8P0G-M4tF13PlJvrlGoUSQtwoTKluytm4O6wy87YayaQBt5zfoXUGONh_0KKVKV9DzsT4zMY4Nd4GPXBXAztA&__tn__=kC-R",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"",
+        "className":"fa fa-github"
+      }
+    ]
+  }
+}
